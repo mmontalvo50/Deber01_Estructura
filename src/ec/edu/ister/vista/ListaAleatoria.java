@@ -29,7 +29,7 @@ public class ListaAleatoria {
       lista.insertarCabezaLista(d);
  }
 // recorre la lista para escribir sus elementos
-  System.out.println("Elementos de la lista generados al azar");
+  System.out.println("ELEMEMTOS DE LA LISTA AL AZAR ");
    lista.visualizar();
 } 
 }
