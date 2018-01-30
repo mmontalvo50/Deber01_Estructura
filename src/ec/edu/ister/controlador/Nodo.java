@@ -7,11 +7,6 @@ package ec.edu.ister.controlador;
 
 /**
  *
- * @author PC
- * I.S.T.E.R
- * SISTEMAS
- * JUAN CARRERA
- * SOLIS SANTIAGO
  */
 public class Nodo {
     int dato;
